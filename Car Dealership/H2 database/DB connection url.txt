@@ -1,0 +1,7 @@
+jdbc:h2:D:\\H2 database\\personDB;AUTO_SERVER=TRUE;
+
+Driver class: org.h2.Driver
+
+username: sa
+pass: sa
+server type: h2 embedded
